@@ -91,14 +91,14 @@ K=20: Silhouette=0.112, Davies-Bouldin=1.997
 
 ---
 
-## Exercise 2: Gaussian Mixture Models
+### Exercise 2: Gaussian Mixture Models
 
 ### Project Description
 
 This exercise implements the **Expectation-Maximization (EM) algorithm** for Gaussian Mixture Models on synthetic 2D data generated from known Gaussian distributions. The project demonstrates model selection, initialization strategies, and convergence analysis.
 
 ### Data Generation Parameters
-```python
+```
 μ₁ = [0.9, 1.02]     # Mean of first Gaussian
 μ₂ = [-1.2, -1.3]    # Mean of second Gaussian
 
