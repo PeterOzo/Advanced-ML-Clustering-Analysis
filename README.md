@@ -4,7 +4,7 @@
 
 ### Project Overview
 
-This repository contains a comprehensive analysis of clustering algorithms and Gaussian Mixture Models (GMMs) implemented for **Data 642 Advanced Machine Learning**. The project demonstrates two fundamental unsupervised learning approaches: **K-Means clustering** on the Olivetti Faces dataset and **Expectation-Maximization (EM) algorithm** for Gaussian Mixture Models on synthetic data.
+This repository contains a comprehensive analysis of clustering algorithms and Gaussian Mixture Models (GMMs) implemented for **Advanced Machine Learning**. The project demonstrates two fundamental unsupervised learning approaches: **K-Means clustering** on the Olivetti Faces dataset and **Expectation-Maximization (EM) algorithm** for Gaussian Mixture Models on synthetic data.
 
 ### Exercise 1: Olivetti Faces Clustering Analysis
 
